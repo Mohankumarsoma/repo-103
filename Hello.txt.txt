@@ -1,0 +1,8 @@
+class sample
+{
+ mohan soma
+{
+
+}
+
+}
