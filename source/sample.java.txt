@@ -3,7 +3,7 @@ class sample
 mohan soma jonnalagadda
 
 {
-
+system.out.printin(hello github);
 }
 
 {
